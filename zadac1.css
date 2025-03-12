@@ -1,0 +1,33 @@
+.Baza {
+    width: 900px;
+    height: 700px;
+
+}
+.header {
+    background: lightgray;
+    text-align: center;
+    padding: 20px;
+    height: 100px;
+}
+
+.aside {
+    margin-right: 450px;
+    position: absolute;
+    background: lightblue;
+    text-align: center;
+    padding: 120px;
+
+}
+
+.main {
+    background: lightgreen;
+    text-align: center;
+    padding: 120px;
+}
+
+.footer {
+    background: lightcoral;
+    text-align: center;
+    padding: 20px;
+    height: 100px;
+}
