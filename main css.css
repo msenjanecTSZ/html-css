@@ -1,0 +1,17 @@
+nav{
+  /* height:50px; */
+    background-color: darkred;
+}
+ol {
+    background-color: grey;
+    display: flex;
+    justify-content: space-evenly;
+}
+.item {
+    order: 3;
+
+}
+li{
+    font-size: 25px;
+    padding: 10px;
+}
