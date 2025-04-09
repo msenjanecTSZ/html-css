@@ -1,0 +1,35 @@
+.Baza {
+    width: 900px;
+    height: 700px;
+
+}
+.header {
+    text-align: center;
+    padding: 20px;
+    height: 100px;
+    src: url("https://logowik.com/content/uploads/images/lionel-messi7831.logowik.com.webp");
+}
+
+
+.main {
+    text-align: center;
+    padding: 120px;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    height: 100px;
+}
+.main-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+}
+
+.main-nav a {
+    text-decoration: none;
+    color: #333;
+}
