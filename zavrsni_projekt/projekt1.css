@@ -1,0 +1,17 @@
+.head{
+    background-color: lightblue;
+    background-repeat: repeat-x;
+}
+.main{
+    background-repeat: repeat-x;
+    background-color: darkblue;
+}
+.strana{
+
+    background-color:  red;
+    background-repeat: repeat-x;
+}
+.dno{
+    background-repeat: repeat-x;
+    background-color: darkred;
+}
