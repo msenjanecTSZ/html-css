@@ -1,0 +1,32 @@
+.head{
+    background-color: lightblue;
+    background-repeat: repeat-x;
+    height: 200px;
+    width: 400px;
+    text-align: center;
+}
+.main{
+    background-repeat: repeat-x;
+    text-align: center;
+    position: absolute;
+    left: 500px;
+    top: 350px;
+    width: 400px;
+    height: 400px;
+}
+.strana{
+    background-repeat: repeat-x;
+    text-align: center;
+    height: 600px;
+    width: 500px;
+}
+.dno{
+    background-repeat: repeat-x;
+    text-align: center;
+    height: 200px;
+    width: 400px;
+}
+.kk{
+    text-align: center;
+    font-size: 100px;
+}
